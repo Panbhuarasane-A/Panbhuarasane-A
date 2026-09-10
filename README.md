@@ -120,8 +120,8 @@ Always learning. Always building. ✨
 
 ## 📊 GitHub Intelligence
 
-<img src="https://github-readme-stats.vercel.app/api?username=Panbhuarasane-A&show_icons=true&theme=chartreuse-dark&include_all_commits=true&count_private=true&hide_border=true&bg_color=00000000&title_color=00f5ff&icon_color=00ff9d&text_color=c9d1d9&ring_color=00ff9d" height="195" alt="GitHub Stats"/>
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Panbhuarasane-A&layout=compact&langs_count=8&theme=chartreuse-dark&hide_border=true&bg_color=00000000&title_color=00f5ff&text_color=c9d1d9" height="195" alt="Top Languages"/>
+<img src="https://github-readme-stats-seven-dun-80.vercel.app/api?username=Panbhuarasane-A&show_icons=true&theme=chartreuse-dark&include_all_commits=true&count_private=true&hide_border=true&bg_color=00000000&title_color=00f5ff&icon_color=00ff9d&text_color=c9d1d9&ring_color=00ff9d" height="195" alt="GitHub Stats"/>
+<img src="https://github-readme-stats-seven-dun-80.vercel.app/api/top-langs/?username=Panbhuarasane-A&layout=compact&langs_count=8&theme=chartreuse-dark&hide_border=true&bg_color=00000000&title_color=00f5ff&text_color=c9d1d9" height="195" alt="Top Languages"/>
 
 <br/>
 
