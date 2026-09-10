@@ -13,6 +13,11 @@
 <img src="https://komarev.com/ghpvc/?username=Panbhuarasane-A&style=for-the-badge&color=00e0a0&label=+&labelColor=0a0f0f" />
 <img src="https://img.shields.io/github/followers/Panbhuarasane-A?style=for-the-badge&color=00e0a0&labelColor=0a0f0f&label=FOLLOWERS" />
 
+<br/><br/>
+
+<!-- ANIMATED DIVIDER -->
+<img width="100%" height="6" src="https://capsule-render.vercel.app/api?type=rect&color=0:00ff9d,50:00f5ff,100:0a2540&height=6" />
+
 </div>
 
 <br/>
@@ -126,26 +131,6 @@ Always learning. Always building. ✨
 <br/>
 
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=Panbhuarasane-A&theme=dark&hide_border=true&background=00000000&ring=00ff9d&fire=00f5ff&currStreakLabel=00f5ff&sideLabels=00ff9d&dates=8b949e" alt="GitHub Streak" width="700"/>
-
-</div>
-
----
-
-<div align="center">
-
-## 🏆 Trophy Cabinet
-
-<img src="https://github-profile-trophy.vercel.app/?username=Panbhuarasane-A&theme=algolia&no-frame=true&no-bg=true&column=7&margin-w=6" alt="Trophies" />
-
-</div>
-
----
-
-<div align="center">
-
-## 📈 Contribution Heatmap
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=Panbhuarasane-A&bg_color=00000000&color=00f5ff&line=00ff9d&point=00f5ff&area_color=00ff9d&area=true&hide_border=true&custom_title=Panbhu's%20Contribution%20Graph" width="100%" alt="Activity Graph"/>
 
 </div>
 
